@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(72, 61, 99);
+  color: #ffffff;
+}
+
+.title {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  /* vertical-align: middle; */
+  justify-content: center;
+  /* align-items: center; */
+  height: 100vh;
+}
+
+#embed-react-app {
+  width: 60%;
+  height: 500px;
+  border: none;
+}
